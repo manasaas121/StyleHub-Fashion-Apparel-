@@ -6,7 +6,7 @@ StyleHub is a fully responsive, modern single-page web frontend for a fashion an
 
 Live Website:https://manasaas121.github.io/StyleHub-Fashion-Apparel-/
 
-GitHub Repository: https://github.com/your-username/stylehub-fashion-apparel.git
+GitHub Repository:https://github.com/manasaas121/StyleHub-Fashion-Apparel-
 
 ✨ Key Features & Functionality
 
